@@ -1,46 +1,45 @@
 # 👋 ¡Hola! Soy Damian Barahona
 
-Estudiante de Ingeniería en Ciencias de la Computación en la Universidad Politécnica Salesiana (6.º semestre). Apasionado por la programación, bases de datos y las tecnologías emergentes. 
+Estudiante de Ingeniería en Ciencias de la Computación en la Universidad Politécnica Salesiana (6.º semestre). Me interesa el desarrollo de software, bases de datos y el uso de tecnologías modernas en entornos reales. He trabajado con diversas herramientas a lo largo de mi formación académica y me mantengo en constante aprendizaje.
 
 ---
 
 ## 🧠 Habilidades Técnicas
 
 ### 🖥️ Lenguajes de Programación
-- 🐍 **Python**
-- ☕ **Java**
-- 💻 **C++**
-- 📜 **JavaScript**
-- 🌐 **HTML & CSS**
-- 📊 **R**
+- 🐍 Python
+- ☕ Java
+- 💻 C++
+- 📜 JavaScript
+- 🌐 HTML & CSS
+- 📊 R
 
 ### 🗄️ Bases de Datos
-- 🐬 **MySQL**
-- 🐘 **PostgreSQL**
-- 🔍 **SQL**
-- 🍃 **MongoDB**
-- 🏛️ **Oracle**
+- 🐬 MySQL
+- 🐘 PostgreSQL
+- 🏛️ Oracle
+- 🔍 SQL
+- 🍃 MongoDB
 
 ### ⚙️ Herramientas y Tecnologías
-- 🐳 **Docker**
-- 🔧 **Git / GitHub**
-- ⚛️ **React**
-- 📦 **VirtualBox**
-- 🌐 **Cisco Packet Tracer**
+- 🔧 Git / GitHub
+- 🐳 Docker
+- ⚛️ React
+- 📦 VirtualBox
+- 🌐 Cisco Packet Tracer
 
 ### 💻 Sistemas Operativos
-- 🐧 **Linux**
-- 🪟 **Windows**
+- 🐧 Linux
+- 🪟 Windows
 
 ---
 
-## 🧠 Habilidades Personales
-- 🧩 Resolución de problemas  
-- 🤝 Trabajo en equipo  
-- 🗣️ Comunicación efectiva  
-- 🚀 Aprendizaje autónomo y continuo
+## 💬 Sobre mí
+
+- 🎓 Estudiante universitario con base en programación, redes y sistemas
+- 🧩 Apasionado por resolver problemas y aprender cosas nuevas
+- 🤝 Me gusta colaborar en equipo y compartir conocimiento
 
 ---
 
-_✨ Siempre en busca de nuevos retos y oportunidades para aprender y construir soluciones tecnológicas._
-
+_Gracias por visitar mi perfil. Estoy en constante crecimiento profesional._ 🚀
