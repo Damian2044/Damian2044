@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Damian Barahona
 
-<!--
-**Damian2044/Damian2044** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería en Ciencias de la Computación en la Universidad Politécnica Salesiana (6.º semestre). Apasionado por la programación, bases de datos y las tecnologías emergentes. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Habilidades Técnicas
+
+### 🖥️ Lenguajes de Programación
+- 🐍 **Python**
+- ☕ **Java**
+- 💻 **C++**
+- 📜 **JavaScript**
+- 🌐 **HTML & CSS**
+- 📊 **R**
+
+### 🗄️ Bases de Datos
+- 🐬 **MySQL**
+- 🐘 **PostgreSQL**
+- 🔍 **SQL**
+- 🍃 **MongoDB**
+- 🏛️ **Oracle**
+
+### ⚙️ Herramientas y Tecnologías
+- 🐳 **Docker**
+- 🔧 **Git / GitHub**
+- ⚛️ **React**
+- 📦 **VirtualBox**
+- 🌐 **Cisco Packet Tracer**
+
+### 💻 Sistemas Operativos
+- 🐧 **Linux**
+- 🪟 **Windows**
+
+---
+
+## 🧠 Habilidades Personales
+- 🧩 Resolución de problemas  
+- 🤝 Trabajo en equipo  
+- 🗣️ Comunicación efectiva  
+- 🚀 Aprendizaje autónomo y continuo
+
+---
+
+_✨ Siempre en busca de nuevos retos y oportunidades para aprender y construir soluciones tecnológicas._
+
