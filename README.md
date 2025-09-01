@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Damian Barahona
 
-Estudiante de Ingeniería en Ciencias de la Computación en la Universidad Politécnica Salesiana (6.º semestre). Me interesa el desarrollo de software, bases de datos y el uso de tecnologías modernas en entornos reales. He trabajado con diversas herramientas a lo largo de mi formación académica y me mantengo en constante aprendizaje.
+Estudiante de Ingeniería en Ciencias de la Computación en la Universidad Politécnica Salesiana (7.º semestre). Me interesa el desarrollo de software, bases de datos y el uso de tecnologías modernas en entornos reales. He trabajado con diversas herramientas a lo largo de mi formación académica y me mantengo en constante aprendizaje.
 
 ---
 
