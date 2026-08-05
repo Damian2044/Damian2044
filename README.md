@@ -1,45 +1,74 @@
-# 👋 ¡Hola! Soy Damian Barahona
+<div align="center">
 
-Estudiante de Ingeniería en Ciencias de la Computación en la Universidad Politécnica Salesiana (7.º semestre). Me interesa el desarrollo de software, bases de datos y el uso de tecnologías modernas en entornos reales. He trabajado con diversas herramientas a lo largo de mi formación académica y me mantengo en constante aprendizaje.
+# Hola, soy Damian Barahona 👋
 
----
+### Egresado de Ingeniería en Ciencias de la Computación
 
-## 🧠 Habilidades Técnicas
+Desarrollo de software · Aplicaciones web · Bases de datos
 
-### 🖥️ Lenguajes de Programación
-- 🐍 Python
-- ☕ Java
-- 💻 C++
-- 📜 JavaScript
-- 🌐 HTML & CSS
-- 📊 R
+<br>
 
-### 🗄️ Bases de Datos
-- 🐬 MySQL
-- 🐘 PostgreSQL
-- 🏛️ Oracle
-- 🔍 SQL
-- 🍃 MongoDB
+<a href="https://www.linkedin.com/in/damian-barahona-0b807b197">
+  <img src="https://img.shields.io/badge/LinkedIn-Damian%20Barahona-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:damianbarahona38@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo electrónico">
+</a>
 
-### ⚙️ Herramientas y Tecnologías
-- 🔧 Git / GitHub
-- 🐳 Docker
-- ⚛️ React
-- 📦 VirtualBox
-- 🌐 Cisco Packet Tracer
-
-### 💻 Sistemas Operativos
-- 🐧 Linux
-- 🪟 Windows
+</div>
 
 ---
 
-## 💬 Sobre mí
+## Sobre mí
 
-- 🎓 Estudiante universitario con base en programación, redes y sistemas
-- 🧩 Apasionado por resolver problemas y aprender cosas nuevas
-- 🤝 Me gusta colaborar en equipo y compartir conocimiento
+Soy egresado de **Ingeniería en Ciencias de la Computación** de la  
+**Universidad Politécnica Salesiana**.
+
+Me interesa el desarrollo de software y la creación de aplicaciones que permitan resolver necesidades reales. Durante mi formación he trabajado en proyectos relacionados con desarrollo web, programación, bases de datos, análisis de información e integración de diferentes tecnologías.
+
+Disfruto aprender, enfrentar nuevos retos y mejorar continuamente la calidad de las soluciones que desarrollo. Me caracterizo por ser responsable, adaptable y comprometido con mi crecimiento profesional.
 
 ---
 
-_Gracias por visitar mi perfil. Estoy en constante crecimiento profesional._ 🚀
+## Tecnologías
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,html,css,react,fastapi,postgresql,mysql,mongodb,docker,git,github,linux,vscode" alt="Tecnologías y herramientas">
+
+</div>
+
+<br>
+
+<div align="center">
+
+`Python` · `Java` · `JavaScript` · `C++` · `SQL`  
+`FastAPI` · `React` · `PostgreSQL` · `MySQL` · `MongoDB`  
+`Git` · `GitHub` · `Docker` · `Linux`
+
+</div>
+
+---
+
+## En qué me enfoco
+
+- Desarrollo de aplicaciones web.
+- Programación backend y creación de APIs REST.
+- Diseño y gestión de bases de datos.
+- Integración entre frontend, backend y base de datos.
+- Desarrollo de soluciones funcionales, organizadas y mantenibles.
+- Aprendizaje continuo de nuevas tecnologías.
+
+---
+
+## Actualmente
+
+Estoy fortaleciendo mis conocimientos en desarrollo de software y buscando oportunidades para aplicar lo aprendido, adquirir experiencia profesional y contribuir en proyectos tecnológicos.
+
+---
+
+<div align="center">
+
+### Convirtiendo ideas en soluciones mediante código.
+
+</div>
